@@ -2,7 +2,7 @@
 <repositories version="1.0">
 	<repo priority="50" quality="experimental" status="unofficial">
 		<name>spike</name>
-		<description>This repository contains the ebuild used to build Templar Repo for spike, a pentesting distro based on Sabayon these packages are for More defensive or privacy.</description>
+		<description>This repository contains the ebuild spike, a pentesting distro based on Sabayon these packages are Unstable or Still in Progress</description>
 		<homepage>https://github.com/Sabayon-Labs/Templar-overlay</homepage>
 		<owner>
 			<email>mudler@dark-lab.net</email>
