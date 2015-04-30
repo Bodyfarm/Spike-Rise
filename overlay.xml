@@ -1,14 +1,17 @@
 <?xml version="1.0" ?>
 <repositories version="1.0">
-	<repo priority="50" quality="experimental" status="unofficial">
-		<name>spike</name>
-		<description>This repository contains the ebuild spike, a pentesting distro based on Sabayon these packages are Unstable or Still in Progress</description>
+	<repo priority="60" quality="experimental" status="unofficial">
+		<name>spike-Rise</name>
+		<description>ebuilds these packages are Unstable or Still in Progress for  spike, a pentesting distro based on Sabayon /description>
 		<homepage>https://github.com/Sabayon-Labs/Templar-overlay</homepage>
-		<owner>
+		<owner type="person"><name>Mudler,Skullbocks,Necrose99</name>
 			<email>mudler@dark-lab.net</email>
 			<email>skullbocks@dark-lab.net</email>
-			<email>necrose99@protonmail.ch</email>
+			<email>necrose99@protonmail.ch,mike@michaellawrenceit.com</email>
 		</owner>
-		<source type="git">https://github.com/Sabayon-Labs/Templar-overlay.git</source>
+		<source type="git">https://github.com/Sabayon-Labs/Spike-Rise.git</source>
+		 <source type="git">git://github.com/Sabayon-Labs/Spike-Rise.git</source>
+    		<source type="git">git@github.com:Sabayon-Labs/Spike-Rise.git</source>
+		<feed>https://github.com/travisghansen/Sabayon-Labs/Spike-Rise/master.atom</feed>
 	</repo>
 </repositories>
